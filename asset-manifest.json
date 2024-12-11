@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApanasenkoVadim/kt2react.git/static/css/main.7bcb0354.css",
+    "main.js": "/ApanasenkoVadim/kt2react.git/static/js/main.efea7b85.js",
+    "static/js/453.b1302bd3.chunk.js": "/ApanasenkoVadim/kt2react.git/static/js/453.b1302bd3.chunk.js",
+    "index.html": "/ApanasenkoVadim/kt2react.git/index.html",
+    "main.7bcb0354.css.map": "/ApanasenkoVadim/kt2react.git/static/css/main.7bcb0354.css.map",
+    "main.efea7b85.js.map": "/ApanasenkoVadim/kt2react.git/static/js/main.efea7b85.js.map",
+    "453.b1302bd3.chunk.js.map": "/ApanasenkoVadim/kt2react.git/static/js/453.b1302bd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bcb0354.css",
+    "static/js/main.efea7b85.js"
+  ]
+}
